@@ -1,4 +1,4 @@
-Python codebase for the publication "A machine learning approach to predict ethnicity using personal name and census location in Canada" by Wong et al. (2020). Mock census data included for testing.
+Python codebase for the publication "A machine learning approach to predict ethnicity using personal name and census location in Canada" by Wong et al. (2020).
 =========================================
 
 Manuscript Number
